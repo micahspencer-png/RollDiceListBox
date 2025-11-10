@@ -1,8 +1,8 @@
 namespace RollDiceListBox
 {
-    public partial class Form1 : Form
+    public partial class RollDiceListBox : Form
     {
-        public Form1()
+        public RollDiceListBox()
         {
             InitializeComponent();
         }

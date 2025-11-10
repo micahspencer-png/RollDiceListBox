@@ -1,6 +1,6 @@
 ﻿namespace RollDiceListBox
 {
-    partial class Form1
+    partial class RollDiceListBox
     {
         /// <summary>
         ///  Required designer variable.
